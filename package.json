@@ -9,6 +9,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DulenkoAleksandr/tea-demonstrationDulenkoAleksandr.git"
+  },
   "dependencies": {
     "minti_fulkerson": "0.1.4"
   },
